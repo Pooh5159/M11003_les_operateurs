@@ -13,10 +13,10 @@ Afficher la variable avec l'opération effectuée
 
 #### Prenons l'exemple d'une somme d'argent de 450 euros, composées en billets de 5, 10, et 20 euros
 
-Nous savons que nous possédons 6 billets de 20 euros et 52 billets de 5 euros, combien restent-ils de billets de 10 euros ?
+Nous savons que nous possédons 6 billets de 20 euros et 52 billets de 5 euros, combien resten t'il de billets de 10 euros ?
 Poser les opérations nécesaires au calcul
 
-#### La rentrée des classes approchent et les élèves de 6e sont au nombre de 155, il faut tous les placer dans des classes de 30 maximum
+#### La rentrée des classes approche et les élèves de 6e sont au nombre de 155, il faut tous les placer dans des classes de 30 maximum
 
 Combien de classes aurons nous au final ?
 Combien restera t'il d'enfants dans la dernière classe à être composée ?
